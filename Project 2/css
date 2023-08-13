@@ -1,0 +1,48 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: consolas;;
+}
+header {
+  position: relative;
+  margin-top: 1px;
+  margin-bottom: 40px;
+  text-align: center;
+  font-family: sans-serif; 
+  color: black;
+  padding: 1em;
+  background: linear-gradient(90deg, rgba(211,77,0,1) 0%, rgb(254, 255, 255) 50%, rgba(69,252,81,1) 100%);
+}
+.video-about{
+  height: 50%;
+  width: 50%;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+
+}
+.section {
+  width: 50%;
+  height: 100%;
+}
+
+video {
+  width: 100%;
+  height: 56.25%;
+  margin-top: 11.875%;
+}
+footer {
+  text-align: center;
+  padding: 1em;
+  background-color: #333;
+  color: black;
+  background: linear-gradient(90deg, rgba(211,77,0,1) 0%, rgb(254, 255, 255) 50%, rgba(69,252,81,1) 100%);
+}
+h3{
+  padding-left: 15rem;
+  text-decoration: solid;
+}
