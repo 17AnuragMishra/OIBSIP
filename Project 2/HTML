@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewpoint" content="with-device--width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Aldrich&display=swap" rel="stylesheet">
+        <title>TRIBUTE PAGE</title>
+        
+     </head>
+    
+    <body>
+      <header>
+        <h1>The Great Indian Army</h1>
+      </header>
+        <main class='main'>
+            <section class='left section'>
+              <hr><h3>Indian Army</h3>
+              <p>The Indian Army is the land-based branch of the Indian Armed Forces, responsible for safeguarding the territorial integrity of India and defending the nation against external threats. It is one of the largest and most capable armies in the world. Here's an overview of the Great Indian Army:
+              <hr></p><br><p id="History">  
+                <b>**History:**</b></p>  
+              <p>  
+                The Indian Army's history dates back to ancient times, with various kingdoms and empires maintaining armies for defense and conquest. After India gained independence from British colonial rule in 1947, the Indian Army was divided between India and Pakistan. Since then, it has evolved into a modern and highly skilled military force.
+                <hr></p><br><p id="Organization">
+                <b>**Organization:**</p></b>
+                The Indian Army is organized into several commands, each responsible for specific geographical regions. These commands are further divided into divisions and brigades. The Indian Army also includes specialized units such as the Parachute Regiment, Special Forces, and the armored corps, among others.
+                <hr></p><br><p id="Strength"><br>
+                <b>**Strength and Capabilities:**</p></b>
+                The Indian Army boasts a significant personnel strength, with millions of active and reserve soldiers. It possesses a wide array of modern weaponry, equipment, and technology, ranging from infantry rifles to tanks, artillery, aircraft, and missile systems. The Indian Army's capabilities also extend to electronic warfare, cyber warfare, and other modern domains of warfare.
+                <hr></p><br><p id="Role"><br>  
+                <b>**Role and Responsibilities:**</p></b>
+                The primary role of the Indian Army is to ensure national security and safeguard the country's borders. It is involved in a variety of tasks, including defending against external aggression, maintaining internal security during times of unrest or natural disasters, and providing assistance for civilian projects and development in remote areas.
+                <hr></p><br><p id="Operations"><br>  
+                <b>**Operations and Engagements:**</p></b>
+                The Indian Army has been involved in various operations and engagements, both domestically and internationally. Domestically, it has played a crucial role in maintaining law and order during times of civil unrest. Internationally, Indian Army personnel have participated in UN peacekeeping missions, demonstrating the nation's commitment to global peace and security.
+                <hr></p><br><p id="Training"><br>  
+                  <b>**Training and Professionalism:**</p></b>
+                The Indian Army places a strong emphasis on training and professionalism. Its personnel undergo rigorous training to develop physical fitness, combat skills, and leadership abilities. The Army also promotes a strong sense of discipline, values, and camaraderie among its ranks.
+                <hr></p><br><p id="Innovation"><br>  
+                  <b>**Innovation and Modernization:**</p></b>
+                In recent years, the Indian Army has been actively working on modernizing its equipment and enhancing its technological capabilities. It has been investing in indigenous research and development, as well as procuring advanced weaponry and systems from foreign sources to maintain its competitive edge.
+                <hr></p><br><p id="Unity"> 
+                  <b>**Unity in Diversity:**</b></p>
+                One unique aspect of the Indian Army is its diverse composition, representing various regions, languages, cultures, and religions from across the country. This diversity is seen as a source of strength, fostering a spirit of unity and nationalism among its personnel.
+              </p><p><br><hr>  
+                Overall, the Indian Army holds a significant place in India's national identity and is a symbol of the nation's strength, resilience, and commitment to safeguarding its people and interests.
+              </p>
+          
+            </section>
+            <section class='right section'>
+          
+              <video src='Indian Army _ A Life Less Ordinary.mp4' controls></video>
+          
+            </section>
+          
+        </main>
+        <footer>
+            <p>Made with Passion for the Nation❤️.</p>
+        </footer>
+    
+    </body>
+</html> 
